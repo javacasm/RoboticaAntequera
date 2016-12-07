@@ -4,6 +4,23 @@ Curso de introducción a la robótica
 
 CEP de Antequera
 
+## Introducción
+
+La robótica (y la programación) han dejado de ser una moda pasajera para consolidarse como una herramienta que cada vez más docentes utilizan en todos los niveles (primaria, secundaria, bachillerato y FP).
+
+Ha dejado de ser una materia en sí misma para pasar a ser una competencia transversal que apoya a otras materias en el aprendizaje
+
+Cada vez son más las herramientas, tanto hardware como software que permiten a los alumnos realizar proyectos en los que se incluyen de una u otra forma robots.
+
+Con este curso se pretende introducir a los docentes en el uso de la robótica en el aula.
+
+## Objetivos
+
+* Mostrar el ecosistema actual de herramientas que facilitan la creación de proyectos con robots
+* Enseñar a programar usando aplicaciones visuales
+* Aprender a utilizar componentes electrónicos para realizar proyectos robóticos
+* Aprender a integrar estas herramientas en el aula
+
 ## Sesiones
 
 25-01-2017 16:00-20:00

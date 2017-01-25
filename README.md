@@ -1,6 +1,6 @@
 # Robotica Antequera
 
-Curso de introducción a la robótica
+Curso de Introducción a la robótica (172925GE205)
 
 CEP de Antequera
 

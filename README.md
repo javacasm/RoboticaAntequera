@@ -4,6 +4,14 @@ Curso de introducción a la robótica
 
 CEP de Antequera
 
+## [Programa](./README.md)
+
+### José Antonio Vacas @javacasm
+
+![cc](./images/CCbySQ_88x31.png)
+
+## [https://github.com/javacasm/RoboticaAntequera](https://github.com/javacasm/RoboticaAntequera)
+
 ## Introducción
 
 La robótica (y la programación) han dejado de ser una moda pasajera para consolidarse como una herramienta que cada vez más docentes utilizan en todos los niveles (primaria, secundaria, bachillerato y FP).

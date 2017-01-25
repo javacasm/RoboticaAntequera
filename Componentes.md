@@ -1,3 +1,16 @@
+# Robotica Antequera
+
+Curso de introducción a la robótica
+
+CEP de Antequera
+
+## [Programa](./README.md)
+
+### José Antonio Vacas @javacasm
+
+![cc](./images/CCbySQ_88x31.png)
+
+## [https://github.com/javacasm/RoboticaAntequera](https://github.com/javacasm/RoboticaAntequera)
 # Componentes
 
 ## Kit
@@ -13,7 +26,7 @@ Precio 109,9 (aunque hacen descuento a centros educativos)
 
 Con el podemos hacer un robot similar a este:
 
-![evoPrintBot](https://github.com/javacasm/evoPrintBot/raw/master/imagenes/evoPrintBot.png)
+![evoPrintBot](https://github.com/javacasm/evoPrintBot/raw/master/images/evoPrintBot.png)
 
 ## Alternativas
 

@@ -35,7 +35,7 @@ Con este curso se pretende introducir a los docentes en el uso de la robótica e
 
 * Presentación de los componentes y software a utilizar
   * Kit de robótica: [componentes](./Componentes.md)
-  * Plataforma de software: [BitBloq](./Bitbloq.md) [http://bitbloq.bq.com/#/]
+  * Plataforma de software: [BitBloq](./BitBloq.md) [http://bitbloq.bq.com/#/]
 * Primeros programas y montajes: Leds
 * Sensores de proximidad
 * Dando movimiento: servos

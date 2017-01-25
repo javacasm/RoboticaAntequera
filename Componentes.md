@@ -42,3 +42,31 @@ Con el podemos hacer un robot similar a este:
 * [Arduino Modules You Can Buy For Less Than $2 (each one)](http://randomnerdtutorials.com/21-arduino-modules-you-can-buy-for-less-than-2/)
 
 * [20 Free Guides for Arduino Modules and Sensors](http://randomnerdtutorials.com/20-free-guides-for-arduino-modules-and-sensors/)
+
+# Dónde comprar
+
+## España
+
+* http://www.electan.com
+* http://www.leantec.com
+* http://www.bricogeek.com
+* http://www.cooking-hacks.com
+* http://www.bq.com
+
+## Internacional
+
+* http://www.sparkfun.com
+* http://www.adafruit.com
+* http://arduino.cc
+
+## Internacionales baratas
+
+* http://www.elecfreaks.com/
+* http://www.electrodragon.com/
+
+
+## China
+
+* http://www.dx.com
+* http://www.aliexpress.com
+* http://www.ebay.com

@@ -15,6 +15,7 @@ CEP de Antequera
 # Programando con [Bitbloq](http://bitbloq.bq.com)
 
 ### http://bitbloq.bq.com
+( [Para descargar la Versión offline](https://github.com/bq/bitbloq-offline/releases) https://github.com/bq/bitbloq-offline/releases)
 
 Bitbloq es un entorno de programación visual que nos permite hacer pogramas para Arduino sin tener conocimientos de programación.
 

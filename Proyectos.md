@@ -35,6 +35,35 @@ CEP de Antequera
 
 [Foros Spainlabs](http://spainlabs.com/foros/)
 
+# Control de servo con potenciómetro
+
+Controlamos la posición del servo con un potenciómetro
+
+![pot y servo](./images/PotenciometroyServo.png)
+
+# No te Caigas x 2 (2 servos)
+
+Evitamos que el robot, movido por 2 servos no se caiga de la mesa usando un sensor de reflexión infrarrojo
+
+## Hardware
+
+![hardware](./images/NoTeCaigasx2_Hardware.png)
+
+## Programa (versión sin funciones)
+
+![software](./images/NoTeCaigas.png)
+
+[Proyecto](./proyectos/NoTeCaigasx2.bitbloq)
+
+## Programa (versión con funciones)
+
+![software](./images/NoTeCaigasx2_Funciones1.png)
+![software](./images/NoTeCaigasx2_Funciones2.png)
+![software](./images/NoTeCaigasx2_Bucle.png)
+
+[Proyecto](./proyectos/NoTeCaigasx2_funcione.bitbloq)
+
+
 # Parpadeando
 
 1. Empezamos con 1 led Parpadeando

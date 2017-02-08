@@ -1,3 +1,18 @@
+# Robotica Antequera
+
+Curso de introducción a la robótica
+
+CEP de Antequera
+
+## [Programa](./README.md)
+
+### José Antonio Vacas @javacasm
+
+![cc](./images/CCbySQ_88x31.png)
+
+## [https://github.com/javacasm/RoboticaAntequera](https://github.com/javacasm/RoboticaAntequera)
+
+
 # Robótica en el aula
 
 ### La moda de la robótica

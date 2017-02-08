@@ -66,6 +66,9 @@ Llevado al extremo: Alhambra Mágica (2 meses y medio)
 * División en grupos y reparto de tareas
 * Conocimientos relacionados con el proyecto y con la vida
 * Con posibilidad de crecimiento
+* Publicación de resultados y del proceso lo que facilita la colaboración
+* Mejora continua de los resultados como re-alimentación
+
 
 # Resumen
 

@@ -4,7 +4,6 @@
 
 TOASK: ¿Sólo 5º y 6º?
 
-
 Eusebio y Diego, trabajamos juntos
 
 **Niños que van por la tarde para seguir la producción**
@@ -19,7 +18,6 @@ El docente como guía "Maestro ¿Cómo se hace esto?" "Pregúntale a fulanita"
 
 ## Robotica sin electrónica
 Robots y artefactos: Reciclaje de materiales
-TODO: enlaces a proyectos (make)
 
 Resuelven, aprenden a buscarse la vida. Son retos.
 
@@ -36,7 +34,7 @@ Llevado al extremo: Alhambra Mágica (2 meses y medio)
 * Pizarra para calcar
 * Aplicación Think Link
 
-TODO: ¿Funciona MakeyMakey con raspberry?
+
 
 ## Lanzando un reto
 
@@ -52,6 +50,7 @@ TODO: ¿Funciona MakeyMakey con raspberry?
 * Alumnos nerviosos acaban haciendo los trabajos más difícil
 * Trabajamos en proyectos
   * ¿Proyectos más pequeños?
+* Aprender a seguir instrucciones
 
 ## Funcionamiento en el aula
 

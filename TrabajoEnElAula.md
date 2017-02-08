@@ -40,7 +40,8 @@ TODO: ¿Funciona MakeyMakey con raspberry?
 
 ## Lanzando un reto
 
-* Sin definir
+* Sin definir incialmente
+* Motivación
 
 
 ## Temas ¿trasversales?
@@ -49,3 +50,18 @@ TODO: ¿Funciona MakeyMakey con raspberry?
 * Documentación
 * Nos manchamos la manos y trabajamos
 * Alumnos nerviosos acaban haciendo los trabajos más difícil
+* Trabajamos en proyectos
+  * ¿Proyectos más pequeños?
+
+## Funcionamiento en el aula
+
+* Trabajamos por Objetivos
+* Sin asignaturas
+* Sin libros
+
+
+## Trabajando por proyectos
+
+* Motivación
+* Organización y coordinación entre asignaturas
+* División en grupos y reparto de tareas

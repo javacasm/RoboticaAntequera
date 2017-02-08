@@ -33,7 +33,7 @@ En abstracto:
 * Exposición del trabajo realizado
 * Relación con el mundo: proveedores, desarrolladores, otros grupos que ya lo han hecho
 * Valoración de la ventaja de compartir información y experiencias
-* Trabajo con problemas y proyectos conplejos
+* Trabajo con problemas y proyectos complejos
 * Aprender a superar la frustración
 
 En concreto:
@@ -41,7 +41,7 @@ En concreto:
 * Elección del modelo de robot a realizar:  búsqueda y selección de información, de comunidades que ya lo han montado…
 * A partir del diseño de un robot tendremos que buscar  documentación (que probablemente estará en inglés). Haremos una documentación interna.
 * Pedir información a otras comunidades
-* Elaboración de un presupuesto para lo que podemos utilizar herramientas ofimaticas cómo hojas de calculo. Mejor si sus presupuesto es pequeño y tienen que agudizar el ingenio
+* Elaboración de un presupuesto para lo que podemos utilizar herramientas ofimáticas cómo hojas de calculo. Mejor si sus presupuesto es pequeño y tienen que agudizar el ingenio
 * Buscar patrocinadores
 * Estudio de la "física" y "geometría" del robot:
      * Sus movimientos y limitaciones

@@ -1,6 +1,6 @@
-
-
 # Aprender haciendo
+# Se aprende lo que se hace
+
 
 TOASK: ¿Sólo 5º y 6º?
 
@@ -65,3 +65,10 @@ TODO: ¿Funciona MakeyMakey con raspberry?
 * Motivación
 * Organización y coordinación entre asignaturas
 * División en grupos y reparto de tareas
+* Conocimientos relacionados con el proyecto y con la vida
+* Con posibilidad de crecimiento
+
+# Resumen
+
+* Objetivos realistas
+* Coordinación

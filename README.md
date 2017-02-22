@@ -46,9 +46,9 @@ Con este curso se pretende introducir a los docentes en el uso de la robótica e
 
 08-02-2017 16:00-20:00
 Experiencias docentes en clase
-* Experiencias de los asistentes
-* Otros proyectos educativos
-* Integración de los proyectos en las clases
+* [Experiencias de los asistentes](./TrabajoEnElAula.md)
+* [Otros proyectos educativos](./RoboticaComoExcusa.md)
+* [Integración de los proyectos en las clases](./RoboticaAula.md)
 
 22-02-2017 16:00-20:00
 Revisión de los avances

@@ -44,7 +44,7 @@ Grupos de 3
 # Tips
 * Diseñar un escenario de test, se facilita mucho 
 	* Escenario (caja de carton) 
-	* Condiciones
+	* Condiciones reproducibles
 
 * Usar programación parametrizada (potenciómetro)
 * Hacer un diagrama de estados

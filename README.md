@@ -37,8 +37,8 @@ Con este curso se pretende introducir a los docentes en el uso de la robótica e
   * Kit de robótica: [componentes](./Componentes.md)
   * Plataforma de software: [BitBloq](./BitBloq.md) [http://bitbloq.bq.com/#/]
 * Primeros programas y montajes: Leds
-* Sensores de proximidad
-* Dando movimiento: servos
+* [Sensores de proximidad](./proyectos/NoTeCaigasx2.bitbloq)
+* [Dando movimiento: servos](./proyectos/Ptenciometro_y_servo.bitbloq)
 
 01-02-2017 16:00-20:00
 * Montando nuestro primer robot

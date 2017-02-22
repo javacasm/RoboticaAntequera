@@ -8,11 +8,12 @@ Soluciones alternativas
 Versiones con más o menos complejidad
 Diferentes tareas para repartirlas: costura, documentación
 Ellos trabajan bajo la guía del profesor
-Publicación de resultados en internet para dar visibilidad
+Publicación de resultados en internet para dar visibilidad https://www.youtube.com/watch?v=PFWEYES9_fY
 Las herramienta son sencillas
 Trabajan en grupos
 4 horas
 Ya sabían programar Scratch y diseñar
+1º Bachillerato
 
 # Avión radiocontrolado con movil
 
@@ -22,14 +23,30 @@ Todos hacen todo
 Ya sabían programar (AppInventor)
 Instalación costosa en todos los ordenadores
 5 horas
-App: 
+Blog: "Matematicas inteligentes" m4thacademy.blogspospot.es
+1º ESO
+¿Centro?
+
+# Domótica
+Controlamos una persiana con sensores de infrarrojos
+3 sesiones: 
+* 1a Sesión programación
+* 2a pruebas
+* 3a Proyecto
+Integran la activad en un proyecto que ya estaban haciendo
+3º ESO
+Grupos de 3
 
 
 # Materiales
-
+* App: "arduino bluetooth"
 
 # Tips
-* Diseñar un escenario de test, se facilita mucho (caja de carton)
-* Usar programación parametrizada (potenciómetro)
+* Diseñar un escenario de test, se facilita mucho 
+	* Escenario (caja de carton) 
+	* Condiciones
 
+* Usar programación parametrizada (potenciómetro)
+* Hacer un diagrama de estados
+* Programación defensiva
 

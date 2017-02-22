@@ -37,6 +37,23 @@ Integran la activad en un proyecto que ya estaban haciendo
 3º ESO
 Grupos de 3
 
+# Robot siguelineas/esquiva obstáculos
+2º Bachillerato
+Programación
+Una cosa es programar y otra poner encima de la mesa
+Cuando se detecta un obstáculo se rodea
+Emite sonidos según el estado (sirve como depuración)
+
+# Cámara Frigorífica
+1º FP Frío/Calor
+Montaje de automatismo en una maqueta de cámara frigorífica
+* Control de puerta con pulsador
+* Luz de señalización 
+* Sonido indicando el estado 
+* Sensor para detectar que se está cerrando
+* Motor (servo) para puerta
+* Motor (servo) representando ventilador
+
 
 # Materiales
 * App: "arduino bluetooth"
@@ -46,7 +63,12 @@ Grupos de 3
 	* Escenario (caja de carton) 
 	* Condiciones reproducibles
 
-* Usar programación parametrizada (potenciómetro)
+* Usar programación parametrizada (potenciómetro) para tiempos, umbrales
 * Hacer un diagrama de estados
 * Programación defensiva
+* Variables/funciones con nombres claros
+
+
+
+
 

@@ -46,9 +46,10 @@ Con este curso se pretende introducir a los docentes en el uso de la robótica e
 
 08-02-2017 16:00-20:00
 Experiencias docentes en clase
-* [Experiencias de los asistentes](./TrabajoEnElAula.md)
+* [Experiencias de los asistentes](./TrabajoEnElAula.md) ([Granada Mágica](./granadaMagica.md))
 * [Otros proyectos educativos](./RoboticaComoExcusa.md)
 * [Integración de los proyectos en las clases](./RoboticaAula.md)
+* [Propuestas por edades](./PropuestasTecnologiaEdades.md)
 
 22-02-2017 16:00-20:00
 Revisión de los avances
@@ -56,6 +57,7 @@ Revisión de los avances
 * Programación más avanzada
 * Uso de componentes externos
 * Reciclaje de materiales
+* [Ideas](./ideas.md) y [Proyectos](./Proyectos.md)
 
 29-03-2017 16:00-20:00
 Exposición de los resultados

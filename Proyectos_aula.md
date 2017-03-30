@@ -29,7 +29,7 @@ Blog: "Matematicas inteligentes" m4thacademy.blogspospot.es
 
 # Domótica
 Controlamos una persiana con sensores de infrarrojos
-3 sesiones: 
+3 sesiones:
 * 1a Sesión programación
 * 2a pruebas
 * 3a Proyecto
@@ -48,8 +48,8 @@ Emite sonidos según el estado (sirve como depuración)
 1º FP Frío/Calor
 Montaje de automatismo en una maqueta de cámara frigorífica
 * Control de puerta con pulsador
-* Luz de señalización 
-* Sonido indicando el estado 
+* Luz de señalización
+* Sonido indicando el estado
 * Sensor para detectar que se está cerrando
 * Motor (servo) para puerta
 * Motor (servo) representando ventilador
@@ -59,8 +59,8 @@ Montaje de automatismo en una maqueta de cámara frigorífica
 * App: "arduino bluetooth"
 
 # Tips
-* Diseñar un escenario de test, se facilita mucho 
-	* Escenario (caja de carton) 
+* Diseñar un escenario de test, se facilita mucho
+	* Escenario (caja de carton)
 	* Condiciones reproducibles
 
 * Usar programación parametrizada (potenciómetro) para tiempos, umbrales
@@ -70,5 +70,49 @@ Montaje de automatismo en una maqueta de cámara frigorífica
 
 
 
+# Robot policia
+
+Alumnos de 6º de primaria
+
+Busca a los "cacos" que son Negros y no a los buenos (blancos)
 
 
+* Piezas recicladas de radiocontrol
+* Usamos hilo de cobre para conectar la pieza del servo con el engranaje
+* Pinza que coge a los "cacos" accionada por servo
+
+
+Mejoras:
+* Hacer una lista de funcionalidades y elegir las que vamos a hacer
+* Definir los requisitos y las funcionalidades previamente
+* Definir y repartir tareas
+* Ir mejorando el modelo con iteraciones
+
+![rover marciano](./images/RobotPolicia.jpg)
+
+# Rover Marciano
+
+3º ESO, 6 grupos de 3 nños
+
+* Hecho en los recreos
+* Basado en los planos del robot de lego
+* Detecta obstáculos
+* Trabajando en equipos
+![rover marciano](./images/RoverMarciano.jpg)
+
+#
+
+El cole ha apostado por la robotica y ha comprado varios kits
+
+# Seguidor Solar
+
+Panel solar
+Programación base por el profe
+Grupo de 4 alumnos de 1° FP básica
+Placa solar y seguidor
+2 ldrs para seguir el sol
+Inicialmente iba a moverse según el tiempo
+En función de la diferencia de los valores se mueve
+Hicieron una puesta a punto
+Lo placa recarga un batería con la que se alimenta todo el sistema
+Propuesta de poner a la entrada del centro
